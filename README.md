@@ -1,4 +1,4 @@
-# DockerJs
+# docker-js
 ## How to debug node with docker and vscode
 
 Using **--inspect-brk** was necessary to hit any breakpoints, when debugging an app that is not a server waiting for commands.
